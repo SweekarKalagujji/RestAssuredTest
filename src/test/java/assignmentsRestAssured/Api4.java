@@ -8,7 +8,7 @@ public class Api4
 	  public void outh2Auth() 
 	  {
 		  given()
-		  .auth().oauth2("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")
+		  .auth().oauth2("//add token here")
 		  .when().get("https://api.github.com/user/repos")
 		  .then()
 		  .log()
