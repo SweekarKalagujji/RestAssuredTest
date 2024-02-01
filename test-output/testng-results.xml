@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-18T00:32:15 IST" name="Default suite" finished-at="2024-01-18T00:32:18 IST" duration-ms="3393">
+    <groups>
+    </groups>
+    <test started-at="2024-01-18T00:32:15 IST" name="Default test" finished-at="2024-01-18T00:32:18 IST" duration-ms="3393">
+      <class name="assignmentsRestAssured.Api4">
+        <test-method signature="outh2Auth()[pri:0, instance:assignmentsRestAssured.Api4@9f116cc]" started-at="2024-01-18T00:32:15 IST" name="outh2Auth" finished-at="2024-01-18T00:32:18 IST" duration-ms="3329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- outh2Auth -->
+      </class> <!-- assignmentsRestAssured.Api4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
